@@ -21,7 +21,7 @@ Round Ribbon Algoritm for Apply This Algorithm need Shared Global List and This 
 ## Complexity of Round Ribbon  Algorithm
 O(n) and Time Of Each Operation When Add, Update , Delete. Updated This  Shared Global List,Complexity This One Operation is O(n)
 
-## Complexity of Round Ribbon  Algorithm Mohamed Ali Updated
+## Complexity of My Own Implementation
 O(n)
 
 
