@@ -29,7 +29,7 @@ Solve This Problem Using  Apply Round Ribbon Algorithm Using One Column (Mark)  
  Improve And Organized Thinking And Think Different Approach To Solve Any Problem And Focus Aslo Performance Not Only Solve Problem. 
 
 ### Refrences: ###
-https://dev.to/alialp/round-robin-implementation-in-c-9fd
-https://www.techopedia.com/definition/9236/round-robin-scheduling-rrs
+- https://dev.to/alialp/round-robin-implementation-in-c-9fd
+- https://www.techopedia.com/definition/9236/round-robin-scheduling-rrs
 
 
