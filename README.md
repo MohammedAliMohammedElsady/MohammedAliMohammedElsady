@@ -1,6 +1,7 @@
 ## Problem Definition 
 
-How Does a Scheduling Algorithm Work That Evenly Distributes All Available Resources.
+- How Does a Scheduling Algorithm Work That Evenly Distributes All Available Resources.
+- How Assign Agent To Conversation Fairly.
 
 ## Technical Notes
 
