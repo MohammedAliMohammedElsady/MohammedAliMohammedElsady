@@ -1,15 +1,15 @@
 -- What is The Problem , How Assign Agent To Conversation Fairly. 
 
 
--- Solution is , Apply Round Ribbon Algoritm To Solve This Problem.
+-- Solution is , Apply Round Ribbon Algorithm To Solve This Problem.
 
--- What is Round Ribbon Algoritm ?
+-- What is Round Ribbon Algorithm ?
    Round Robin is the preemptive process scheduling algorithm. Each process is provided a fix time to execute, it is called a quantum. Once a process is executed for a given time period, it is preempted and other process executes for a given time period. Context switching is used to save states of preempted processes.
 
 
--- What is The Problem When Apply Round Ribbon Algoritm and How To Solve This ?
+-- What is The Problem When Apply Round Ribbon Algorithm and How To Solve This ?
 
--- Round Ribbon Algoritm for Apply This Algorthim need Shared Global List and This List is Updated,this is problem --> Time Performance Because When Add,Update,Delete,Insert 
+-- Round Ribbon Algoritm for Apply This Algorithm need Shared Global List and This List is Updated,this is problem --> Time Performance Because When Add,Update,Delete,Insert 
 
    You need Update This List.
 
